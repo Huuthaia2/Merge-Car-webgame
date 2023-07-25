@@ -1,0 +1,1 @@
+{"type":"Label","props":{"y":0,"x":0,"text":"-5","stroke":3,"presetID":1,"overflow":"visible","name":"hit","isPresetRoot":true,"height":25,"fontSize":50,"font":"Arial","color":"#ff0400","anchorY":0.5,"anchorX":0.5},"compId":66,"child":[{"type":"Script","props":{"runtime":"view/HitAnim.ts","presetID":2},"compId":67}],"loadList":[],"loadList3D":[]}

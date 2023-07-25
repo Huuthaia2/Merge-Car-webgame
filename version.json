@@ -1,0 +1,8 @@
+{
+    "@base/banner.jpg":"_base/banner.jpg",
+    "@base/logo.png":"_base/logo.png",
+    "@base/yad.png":"_base/yad.png",
+    "3dres/LayaScene_mainScene/Conventional/Library/unity default resources-Cube.lm":"3dres/LayaScene_mainScene/Conventional/Library/unity_default_resources-cube.lm",
+    "3dres/LayaScene_mainScene/Conventional/Library/unity default resources-Plane.lm":"3dres/LayaScene_mainScene/Conventional/Library/unity_default_resources-plane.lm",
+    "3dres/LayaScene_mainScene/Conventional/Library/unity default resources-Sphere.lm":"3dres/LayaScene_mainScene/Conventional/Library/unity_default_resources-sphere.lm"
+}

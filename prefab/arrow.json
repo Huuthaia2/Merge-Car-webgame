@@ -1,0 +1,1 @@
+{"compId":59,"child":[{"compId":60,"type":"Image","props":{"scaleX":1,"presetID":2,"anchorY":0.5,"anchorX":0.5,"skin":"game/blueArrow.png","y":19,"x":20,"rotation":0}}],"type":"Image","props":{"anchorX":0.5,"name":"arrow","presetID":1,"height":39.5,"width":41.5,"isPresetRoot":true,"y":0,"x":0,"anchorY":0.5},"loadList":["game/blueArrow.png"],"loadList3D":[]}
